@@ -22,7 +22,7 @@ export const Header = ()=>{
                 <div className="container-fluid header-gradient-background">
                     <div className="row">
 
-                        <div className="col-md-6">
+                        <div className="col-md-7">
                             <div>
                                 <h1>
                                     A distinct leading provider of telecommunication  and information technology services
@@ -35,7 +35,7 @@ export const Header = ()=>{
 
                         </div>
 
-                        <div className="col-md-6">
+                        <div className="col-md-5">
                             <div className="row">
                             {headerFeatures.map((feature, index) => (
                                 <div key={index} className="col-md-6" style={{...styles.content, flexDirection:'row'}}>
