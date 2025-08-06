@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/dekings/static/css/main.b2b916eb.css",
+    "main.js": "/dekings/static/js/main.0ef3b2cd.js",
+    "static/js/453.5b28fa79.chunk.js": "/dekings/static/js/453.5b28fa79.chunk.js",
+    "static/media/telecommunication-thumbnail.png": "/dekings/static/media/telecommunication-thumbnail.f4b23ec6e39937008553.png",
+    "static/media/cropped-logo.png": "/dekings/static/media/cropped-logo.4f03f136e7712226da4f.png",
+    "index.html": "/dekings/index.html",
+    "main.b2b916eb.css.map": "/dekings/static/css/main.b2b916eb.css.map",
+    "main.0ef3b2cd.js.map": "/dekings/static/js/main.0ef3b2cd.js.map",
+    "453.5b28fa79.chunk.js.map": "/dekings/static/js/453.5b28fa79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2b916eb.css",
+    "static/js/main.0ef3b2cd.js"
+  ]
+}
