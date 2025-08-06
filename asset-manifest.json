@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/dekings/static/css/main.b2b916eb.css",
-    "main.js": "/dekings/static/js/main.0ef3b2cd.js",
+    "main.css": "/dekings/static/css/main.768ef06b.css",
+    "main.js": "/dekings/static/js/main.5d4f7ef0.js",
     "static/js/453.5b28fa79.chunk.js": "/dekings/static/js/453.5b28fa79.chunk.js",
     "static/media/telecommunication-thumbnail.png": "/dekings/static/media/telecommunication-thumbnail.f4b23ec6e39937008553.png",
     "static/media/cropped-logo.png": "/dekings/static/media/cropped-logo.4f03f136e7712226da4f.png",
+    "static/media/BOT_thumbcitronix_.jpg": "/dekings/static/media/BOT_thumbcitronix_.78314c82df0e7361f54d.jpg",
     "index.html": "/dekings/index.html",
-    "main.b2b916eb.css.map": "/dekings/static/css/main.b2b916eb.css.map",
-    "main.0ef3b2cd.js.map": "/dekings/static/js/main.0ef3b2cd.js.map",
+    "main.768ef06b.css.map": "/dekings/static/css/main.768ef06b.css.map",
+    "main.5d4f7ef0.js.map": "/dekings/static/js/main.5d4f7ef0.js.map",
     "453.5b28fa79.chunk.js.map": "/dekings/static/js/453.5b28fa79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2b916eb.css",
-    "static/js/main.0ef3b2cd.js"
+    "static/css/main.768ef06b.css",
+    "static/js/main.5d4f7ef0.js"
   ]
 }
