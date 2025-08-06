@@ -1,11 +1,11 @@
 
-import logo from '../asset/Ericsson-Nigeria-Undergraduate-Internship-1.jpg'
+import logo from '../asset/cropped-logo.png'
 import { FlatButton } from './FlatButton'
 function Navbar() {
 
   return (
   <>
-  <nav className="navbar navbar-expand-lg " data-bs-theme="dark">
+  <nav className="navbar navbar-expand-lg " data-bs-theme="light">
   <div className="container-fluid">
     <a className="navbar-brand" href="#">
       <img src={logo} alt='logo'/>
@@ -27,7 +27,7 @@ function Navbar() {
         
 
         <li className="nav-item">
-          <a href='https://wa.link/6hbzdj' target='_blank'><FlatButton  onClick={()=>{}} title='Contact Us' className='btndark'/></a>
+          <a href='https://wa.link/6hbzdj' target='_blank' rel='noreferrer'><FlatButton  onClick={()=>{}} title='Contact Us' className='btndark'/></a>
         </li>
 
         

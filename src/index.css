@@ -1,12 +1,12 @@
 
 :root{
-  --color-darkblue:#004A8D;
-  --color-lightblue:#0b60af;
-  --color-orange:#F26A21;
-  --color-offwhite: #F6F5F3;
+  --color-darkblue:#003865;
+  --color-lightblue:#0072CE;
+  --color-green:#69BE28;
+  --color-red: #E30613;
 }
 section > .container-fluid{
-  padding: 5% 3%;
+  padding: 7% 5%;
 }
 
 nav .container-fluid{
@@ -22,11 +22,12 @@ nav .container-fluid{
   margin:2px
 }
 .btndark, .btndark:hover{
-  background-color: var(--color-darkblue) !important;
+  background-color: var(--color-red) !important;
+  border: solid white 1px;
   color: white !important;
 }
 .btnalternate,.btnalternate:hover{
-  background-color: var(--color-lightblue) !important;
+  background-color: var(--color-darkblue) !important;
   color: white !important;
 }
 .btnlight, .btnlight:hover{
@@ -38,7 +39,7 @@ nav .container-fluid{
   color: var(--color-black) !important;
    white-space: nowrap;
 }
-@media (max-width:750px) {
+/* @media (max-width:750px) {
   .navbar-brand img{
     width:70%;
   
@@ -47,4 +48,21 @@ nav .container-fluid{
     width: 70%;
 
   }
+} */
+
+.header-gradient-background{
+  min-height: 80vh;
+  background: linear-gradient(
+    to bottom,
+    transparent 30%,
+    var(--color-red) 100%
+  );
+}
+
+.headericons {
+  color: var(--color-red);
+  background: white;
+  padding: 10px;
+  font-size: 30px;
+  border-radius: 8px;
 }
