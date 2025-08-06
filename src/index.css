@@ -30,10 +30,10 @@ h1{
 h2{
   text-align: center;
   color: var(--color-red);
-  font-size: xx-large;
+ 
 }
 h3{
-  font-size: larger;
+
 }
 section > .container-fluid{
   padding: 7% 5%;

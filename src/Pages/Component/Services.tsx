@@ -33,7 +33,7 @@ export const Services = ()=>{
 
                                 <br/>
                                 <div>
-                                    <h3 style={{textTransform:"capitalize", color:'#E30613'}}>{service.title}</h3>
+                                    <h4 style={{textTransform:"capitalize", color:'#E30613'}}>{service.title}</h4>
                                     <p>{service.description}</p>
                                 </div>
                             </div>
